@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juswannaCry
-- 👀 I’m interested in Cyber security 
+- 👀 I’m interested in Cybersecurity 
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
